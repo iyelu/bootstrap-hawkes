@@ -1,2 +1,2 @@
 # bootstrap-hawkes
-MATLAB package for bootstrapping Hawkes point processes
+MATLAB code for bootstrapping Hawkes point processes
